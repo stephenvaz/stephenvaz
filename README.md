@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! 
+Scripting my life out
+
+<img src="https://media1.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif?cid=790b7611mwcua3m6gvo95lvv9zhtbdzf2zu3euxxvvtd40aj&rid=giphy.gif&ct=ts" width="480" height="480">
 
 <!--
 **stephenvaz03/stephenvaz03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
