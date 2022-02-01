@@ -3,8 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=0e75b6&style=flat" alt="stephenvaz03" /> </p>
 
-
+<style>
+    section { padding:10px; }
+    .me {float: left;} 
+    .lang-stats section {width: 50%; float: right;}
+</style>
 <section class="me">
+
 - 🔭 I’m currently working on [Web Automation (Python Selenium)](https://github.com/stephenvaz03/MyPy)
 
 - 🌱 I’m currently learning **TensorFlow, Kotlin, Flutter**
@@ -16,12 +21,9 @@
 - 📫 How to reach me **vs1102@protonmail.com**
 </section>
 <section class="lang-stats">
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz03" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz03" /></p>
 </section>
-<style>
-    .me {float: left;}
-    .lang-stats section {width: 50%; float: left;}
-</style>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stephen-vaz-b9b791218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stephen-vaz-b9b791218/" height="30" width="40" /></a>
