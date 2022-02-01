@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=0e75b6&style=flat" alt="stephenvaz03" /> </p>
 
-<style>
-    section { padding:10px; }
-    .me {float: left;} 
-    .lang-stats section {width: 50%; float: right;}
-</style>
-<section class="me">
 
 - 🔭 I’m currently working on [Web Automation (Python Selenium)](https://github.com/stephenvaz03/MyPy)
 
@@ -19,10 +13,9 @@
 - 💬 Ask me about **Flutter, Hardware, FOSS**
 
 - 📫 How to reach me **vs1102@protonmail.com**
-</section>
-<section class="lang-stats">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz03" /></p>
-</section>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,4 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenvaz03&theme=dark" alt="stephenvaz03" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz03" /></p>
 
