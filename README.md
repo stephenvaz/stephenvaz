@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif?cid=790b7611un4ipkip0bae9bcqmepyds1pg80d9afane4xgn57&rid=giphy.gif&ct=ts" width="320" height="320" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=0e75b6&style=flat" alt="stephenvaz03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=brightgreen&style=flat" alt="stephenvaz03" /> </p>
 
 
 - 🔭 I’m currently working on [Web Automation (Python Selenium)](https://github.com/stephenvaz03/MyPy)
@@ -37,5 +37,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenvaz03&theme=dark" alt="stephenvaz03" /></p>
 
-
+![](https://hit.yhype.me/github/profile?user_id=54773712)
 
