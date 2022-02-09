@@ -33,6 +33,7 @@
 <p align="left"><a href="https://coursera.org/share/3db32d674e7639352d578392f8ad2f69">HTML, CSS, and Javascript for Web Developers by Johns Hopkins University</a></p>
 <p align="left"><a href="https://coursera.org/share/6a8361b876df3d6908540373eb4d33df">Troubleshooting and Debugging Techniques by Google</a></p>
 
+<h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenvaz03&show_icons=true&theme=gruvbox&locale=en" alt="stephenvaz03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz03" /></p>
