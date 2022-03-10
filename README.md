@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Kotlin, Flutter**
 
-- 🤝 I’m looking for help with [Personal Portfolio](https://github.com/stephenvaz03/stephen.github.io)
+- 🤝 I’m looking for help with my [Personal Portfolio](https://github.com/stephenvaz03/stephen.github.io)
 
 - 💬 Ask me about **Flutter, Hardware, FOSS**
 
