@@ -34,11 +34,11 @@
 <p align="left"><a href="https://coursera.org/share/6a8361b876df3d6908540373eb4d33df">Troubleshooting and Debugging Techniques by Google</a></p>
 
 <h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenvaz03&show_icons=true&theme=gruvbox&locale=en" alt="stephenvaz03" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenvaz&show_icons=true&theme=gruvbox&locale=en" alt="stephenvaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenvaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="stephenvaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenvaz03&theme=dark" alt="stephenvaz03" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stephenvaz&theme=dark" alt="stephenvaz" /></p>
 
 ![](https://hit.yhype.me/github/profile?user_id=54773712)
 
