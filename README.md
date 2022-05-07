@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Web Automation (Python Selenium)](https://github.com/stephenvaz03/MyPy)
 
-- 🌱 I’m currently learning **TensorFlow, Kotlin, Flutter**
+- 🌱 I’m currently learning **TensorFlow, Kotlin and Flutter**
 
 - 🤝 I’m looking for help with my [Personal Portfolio](https://github.com/stephenvaz03/stephen.github.io)
 
