@@ -32,6 +32,12 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"><a href="https://coursera.org/share/3db32d674e7639352d578392f8ad2f69">HTML, CSS, and Javascript for Web Developers by Johns Hopkins University</a></p>
 <p align="left"><a href="https://coursera.org/share/6a8361b876df3d6908540373eb4d33df">Troubleshooting and Debugging Techniques by Google</a></p>
+<p align="left"><a href="https://www.coursera.org/account/accomplishments/certificate/9AH4GAJ7BLGZ">Crash Course on Python
+ by Google</a></p>
+<p align="left"><a href="https://www.coursera.org/account/accomplishments/certificate/8XJGCUGW8N48">Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+ by DeepLearning.AI</a></p>
+<p align="left"><a href="https://www.coursera.org/account/accomplishments/certificate/TERZRXMQFH4X">Convolutional Neural Networks in TensorFlow by DeepLearning.AI</a></p>
+
 
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stephenvaz&show_icons=true&theme=gruvbox&locale=en" alt="stephenvaz" /></p>
