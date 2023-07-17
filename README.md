@@ -7,11 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=brightgreen&style=flat" alt="stephenvaz03" /> </p>
 
 
-- 🔭 I’m currently working on [Web Automation (Python Selenium)](https://github.com/stephenvaz03/MyPy)
-
-- 🌱 I’m currently learning **TensorFlow, React and Flutter**
-
-- 🤝 I’m looking for help with my [Personal Portfolio](https://stephenvaz.github.io/)
+- 🌱 I’m currently learning **TensorFlow, GoLang, SolidJs**
 
 - 💬 Ask me about **Flutter, Hardware, FOSS**
 
