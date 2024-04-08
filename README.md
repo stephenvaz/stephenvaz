@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=brightgreen&style=flat" alt="stephenvaz03" /> </p>
 
 
-- 🌱 I’m currently learning **TensorFlow, GoLang, SolidJs**
+- 🌱 I’m currently learning **Android Native, GoLang, SolidJs**
 
 - 💬 Ask me about **Flutter, Hardware, FOSS**
 
