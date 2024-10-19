@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephen</h1>
-<h3 align="center">A novice developer scripting his life out.</h3>
+<h3 align="center">A dev scripting his life out.</h3>
 
 <img align="right" alt="GIF" src="https://media3.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif?cid=790b7611un4ipkip0bae9bcqmepyds1pg80d9afane4xgn57&rid=giphy.gif&ct=ts" width="320" height="320" />
 
