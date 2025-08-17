@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephenvaz03&label=Profile%20views&color=brightgreen&style=flat" alt="stephenvaz03" /> </p>
 
 
-- 🌱 I’m currently learning **Android Native, GoLang, SolidJs**
+- 📱 SDE working on the Consumer [iOS App](https://apps.apple.com/in/app/phonepe-secure-payments-app/id1170055821) at **PhonePe**
 
 - 💬 Ask me about **Flutter, Hardware, FOSS**
 
